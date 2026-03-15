@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ゆめゆめ（feat. 初音ミク）",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-15T09:21:29.019578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゆめゆめ feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/01_ゆめゆめ_feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゆめゆめ (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/02_ゆめゆめ_(feat._初音ミク)_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゆめゆめ (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_ゆめゆめ_(feat._初音ミク)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DECO*27 - ゆめゆめ feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_DECO_27_-_ゆめゆめ_feat._初音ミク_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゆめゆめ feat.初音ミク",
+      "artist": "MIKU",
+      "has_synced": true,
+      "path": "select/05_ゆめゆめ_feat.初音ミク_MIKU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆめゆめ (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ゆめゆめ_(feat._初音ミク)_DECO_27.txt"
+    }
+  ]
+}
